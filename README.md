@@ -6,4 +6,5 @@ The README can be viewed at: https://docs.google.com/document/d/1QefOmaWYOIShugK
 Here is a video showcasing the game: https://www.youtube.com/watch?v=yNtASzWaBvs
 
 If you would like to try this game online instead of downloading:
-https://play.unity.com/mg/other/a-hero-s-tale-v1-0
+https://play.unity.com/mg/other/a-hero-s-tale-v1-1
+
