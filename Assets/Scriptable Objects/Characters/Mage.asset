@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5061423bf3ef96d4da74c8db07efdafe, type: 3}
+  m_Name: Mage
+  m_EditorClassIdentifier: 
+  characterClass: 2
+  stats: 'Max Health: 85 / 85
+
+
+    Light Attack Damage: 8
+
+
+    Light Attack Rate:
+    0.95
+
+
+    Heavy Attack Damage: 15
+
+
+    Heavy Attack Rate: 0.7
+
+
+    Defence:
+    0.1'
+  description: 'The sorcerer that calls upon powers from unknown.
+
+    The Mage is
+    the most balanced of the three, whereby he lacks health and range but has the
+    strongest attack.'
