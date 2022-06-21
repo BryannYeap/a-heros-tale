@@ -1,10 +1,11 @@
 # A Hero's Tale
 
-A 2D side-scrolling platformer created for the NUS module CP2106 (Orbital).
+A 2D side-scrolling platformer created with C# (using Unity) for the NUS module CP2106: Independent Software Development Project (Orbital).
 
 ## README
 
 The README can be viewed at: https://docs.google.com/document/d/1QefOmaWYOIShugKOF9S5boh4K7fNxyH4XrjbHZ2cpPA/edit
+
 It contains our motivations, game features, workflow, design choices, and more!
 
 ## Demo
